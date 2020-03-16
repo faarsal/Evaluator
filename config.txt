@@ -1,0 +1,3 @@
+equal: bool equal (int**m1,int **m2,int**m3,int row,int col){return -1;}
+sum_of_Perfect : int sum_of_Perfect(int * arr,int size){return 999;}
+Add5D : int***** Add5D (int *****arr1, int *****arr2, int s1, int s2, int s3, int s4, int s5){return NULL;}
